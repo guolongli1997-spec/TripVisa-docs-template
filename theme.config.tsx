@@ -1,5 +1,5 @@
 import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
+import { DocsThemeConfig } from 'TripVisa-docs-template'
 
 const config: DocsThemeConfig = {
   logo: <span>flytripvisa.site</span>,
@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'TripVisa-docs-template',
   },
 }
 
